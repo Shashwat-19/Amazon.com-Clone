@@ -1,6 +1,6 @@
 # Amazon.com Clone 🛒📦
 
-![Amazon.com](https://github.com/Shashwat-19/Amazon.com-Clone/raw/main/Assets/)
+![Amazon.com](https://github.com/Shashwat-19/Amazon.com-Clone/raw/main/Assests/image.png)
 
 Welcome to the **Amazon.com Clone** – a fully responsive replica of the popular e-commerce website Amazon, built using only HTML and CSS. This project aims to showcase a clean and modern UI with interactive elements.
 
